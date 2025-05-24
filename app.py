@@ -16,7 +16,7 @@ from asyncExplainer import AsyncExplanationGenerator
 from preprocessor import PaperPreprocessor
 
 # Set the GROQ_API_KEY environment variable
-os.environ['GROQ_API_KEY'] = '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'
+os.environ['GROQ_API_KEY'] = ''
 
 class StreamlitApp:
     def __init__(self):
