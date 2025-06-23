@@ -1,8 +1,8 @@
 🎓 EduSmart AI: Research Paper Analyzer & Career Guidance Platform
 
 EduSmart AI is a modern, Streamlit-powered intelligent assistant built for students, educators, and researchers. It features a dual-purpose system:
-1. AI-Enhanced Research Paper Analyzer** for intelligent summarization and chunk-wise explanation.
-2. AI Career Guidance Engine** to recommend tech roles based on your skills profile.
+1. AI-Enhanced Research Paper Analyzer for intelligent summarization and chunk-wise explanation.
+2. AI Career Guidance Engine to recommend tech roles based on your skills profile.
 
 🚀 Key Features
 
